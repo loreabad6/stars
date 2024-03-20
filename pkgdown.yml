@@ -1,0 +1,14 @@
+pandoc: 3.1.11
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  stars1: stars1.html
+  stars2: stars2.html
+  stars3: stars3.html
+  stars4: stars4.html
+  stars5: stars5.html
+  stars6: stars6.html
+  stars7: stars7.html
+  stars8: stars8.html
+last_built: 2024-03-20T13:49Z
+
